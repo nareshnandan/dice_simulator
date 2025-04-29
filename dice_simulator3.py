@@ -1,4 +1,3 @@
-# Dice Simulator 🎲
 # This program simulates dice rolls and shows results
 
 import random
